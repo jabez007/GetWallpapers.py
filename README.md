@@ -1,6 +1,6 @@
 ## Synopsis
 
-This script is an attempt to scrape wallpapers from the subreddits that make up the SFW Porn Network.
+This script is an attempt to scrape wallpapers from the subreddits that make up the [SFW Porn Network](https://www.reddit.com/r/sfwpornnetwork/wiki/network).
 It's meant to keep your desktop backgrounds fresh, and can even handle multiple monitors without having 
 to use extra software.
 
