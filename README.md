@@ -11,7 +11,7 @@ The PIL and itertools libraries are used to create combinations of images wide e
 
 ## Motivation
 
-Ironically, its difficult to install extra software on my desktop at work, but I can browse Reddit all day long. 
+Ironically, it's difficult to install extra software on my desktop at work, but I can browse Reddit all day long. 
 So I wrote this script to scrape and create wallpapers that will fit across my three monitors.
 
 ## Installation
