@@ -1,0 +1,12 @@
+{
+	"exts": [".jpg",
+			 ".png"],
+	"path": "/Users/Jimmy/Pictures/Desktop Background/",
+	"resolution": {"width": 1920,
+				   "height": 1080},
+	"monitors": 1,
+	"subreddits": ["earthporn",
+				   "spaceporn"],
+	"sort": "top",
+	"period": "month"
+}
